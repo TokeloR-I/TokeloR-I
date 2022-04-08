@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TokeloR-I
-- 👀 I’m interested in ... improving my Programming skills
+- 👀 I’m interested in ... improving my Programming skills aswell as show casing my work :)
 - 🌱 I’m currently re-learning ... python
-- 💞️ I’m looking to collaborate on ... beginner projects on python 
-- 📫 How to reach me ...DM perhaps ?
+- 💞️ I’m looking to collaborate on ... projects involving Machine learning  
+- 📫 How to reach me ...ramasoditri@gmail.com
 
 <!---
 TokeloR-I/TokeloR-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
