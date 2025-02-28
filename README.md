@@ -1,7 +1,3 @@
-Here's a **simple yet engaging** "About Me" section for your GitHub profile:
-
----
-
 # 👋 Hello, I'm Tokelo!
 
 🚀 **Aspiring Robotic Programmer** | 🔧 **Tech Enthusiast** | 🌎 **Currently in Germany**  
